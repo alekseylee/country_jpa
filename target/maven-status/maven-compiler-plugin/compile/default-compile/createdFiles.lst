@@ -1,0 +1,6 @@
+be\intecbrussel\model\President.class
+be\intecbrussel\repository\CountryRepository.class
+be\intecbrussel\model\Country.class
+be\intecbrussel\Main.class
+be\intecbrussel\service\CountryService.class
+be\intecbrussel\connection\EntityManagerProvider.class
